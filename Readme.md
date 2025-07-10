@@ -1,5 +1,5 @@
+![100 Days of Code Banner](assets/banner.png)
 # 100 Days of Code: DevLog Series
-
 Welcome to my **100 Days of Code** DevLog!  
 This repository documents my journey as I commit to coding every day for 100 days.
 
